@@ -1,0 +1,33 @@
+/* start services section */
+/* #services .card .icon{
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 50%;
+    background-color: #0dcaf0;
+    color: #fff;
+    text-align: center;
+    font-size: 24px;
+    flex-direction: column-reverse;
+} */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body::before{
+    content: '';
+    display: block;
+    height: 55px;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+
+
+/* end services section */
